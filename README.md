@@ -4,7 +4,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=noto-serif&weight=700&pause=800&color=463CD2&width=1100&center=true&lines=Welcome+To+My+Github+Profile;Full+Stack+Web+Developer;Android+Developer;let's+collaborate+and+develop+our+abilities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=noto-serif&weight=700&pause=800&color=463CD2&width=1100&center=true&lines=Welcome+To+My+Github+Profile;Algorithm+8.0+Hackathon+Winner;Full+Stack+Web+Developer;Android+Developer;let's+collaborate+and+develop+our+abilities.)](https://git.io/typing-svg)
 
 </p>
 
